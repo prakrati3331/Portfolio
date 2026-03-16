@@ -234,7 +234,7 @@ This project is licensed under the MIT License.
 **Prakrati Mishra**
 
 - GitHub: [@prakrati3331](https://github.com/prakrati3331)
-- Portfolio: [Live Demo](https://your-portfolio-url.com)
+- Portfolio: [Live Demo](https://portfolio-seven-chi-seu6vdeccu.vercel.app/)
 - Email: prakratimishra2006@gmail.com
 
 ## 🙏 Acknowledgments
