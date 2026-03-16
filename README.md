@@ -1,29 +1,55 @@
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Prakrati Mishra
+  Hi there 👋 I'm Prakrati Mishra 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
+<h3 align="center">🚀 Computer Science Engineer | AI & Full Stack Developer | Tech Enthusiast</h3>
+
 <p align="center">
-  🚀 Computer Science Engineer  
-  💻 AI & Full-Stack Developer | Tech Enthusiast
+  Passionate about building web applications, exploring new technologies, and solving real-world problems through code.
 </p>
 
 ---
 
-### 🌐 My Portfolio
+### 🌐 Live Portfolio
 
 <p align="center">
-  <a href="[https://your-portfolio-name.vercel.app](https://portfolio-seven-chi-seu6vdeccu.vercel.app/)">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://portfolio-seven-chi-seu6vdeccu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+### 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakrati3331&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrati3331&theme=tokyonight" />
+</p>
+
+---
+
 ### 🔗 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/prakrati-mishra-19122b291/
-- GitHub: https://github.com/prakrati3331
 
+- 💼 LinkedIn: https://www.linkedin.com/in/prakrati-mishra-19122b291/  
+- 💻 GitHub: https://github.com/prakrati3331  
+- 🌐 Portfolio: https://portfolio-seven-chi-seu6vdeccu.vercel.app/
 
+---
+
+⭐ *Feel free to explore my repositories and projects!*
 
 
 
