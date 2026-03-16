@@ -29,18 +29,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakrati3331&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakrati3331&theme=tokyonight" />
-</p>
-
----
-
 ### 🔗 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/prakrati-mishra-19122b291/  
