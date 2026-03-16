@@ -1,3 +1,37 @@
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> I'm Prakrati Mishra
+</h1>
+
+<p align="center">
+  🚀 Computer Science Engineering Student  
+  💻 Web Developer | Tech Enthusiast
+</p>
+
+---
+
+### 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://your-portfolio-name.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/prakrati-mishra-19122b291/
+- GitHub: https://github.com/prakrati3331
+
+
+
+
+
+
+
+
+
+
 # Prakrati Mishra - Portfolio Website
 
 A modern, responsive portfolio website built with Next.js, TypeScript, and Tailwind CSS showcasing AI development projects, achievements, and professional experience.
