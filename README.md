@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  🚀 Computer Science Engineering Student  
-  💻 Web Developer | Tech Enthusiast
+  🚀 Computer Science Engineer  
+  💻 AI & Full-Stack Developer | Tech Enthusiast
 </p>
 
 ---
