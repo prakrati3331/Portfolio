@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋 I'm Prakrati Mishra 
+  Hi there I'm Prakrati Mishra 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 </h1>
 
@@ -23,9 +23,26 @@
 
 ### 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode"/>
+#### 👩‍💻 Programming & Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,java,git,github,vscode"/>
 </p>
+
+#### 🤖 AI / Machine Learning / GenAI
+- Generative AI (GenAI)  
+- Large Language Models (LLMs)  
+- Retrieval Augmented Generation (RAG)  
+- Agentic AI Systems  
+- LangChain  
+- LangGraph  
+- CrewAI  
+- Multi-Agent AI Workflows  
+
+#### ☁️ Cloud & Tools
+- Google Cloud Platform (GCP)  
+- Git & GitHub  
+- REST APIs  
+- Web Application Development  
 
 ---
 
